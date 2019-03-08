@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "DoNotAgree",
+    "version": "1.0",
+    "author": "🎨 Justin Rayfield Faler",
+
+    "description": "Empowers users to disagree to terms & conditions by changing a contract.",
+
+    "icons": {
+        "48": "icons/DNA-48.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.JustinFaler.com/example.html*"],
+            "js": ["dna.js"]
+        }
+    ]
+}
