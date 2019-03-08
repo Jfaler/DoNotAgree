@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/" width="140" align="center">
+<img src="https://user-images.githubusercontent.com/8336385/54055358-ab3db980-41a1-11e9-9b3e-114b4d702719.gif" align="center">
   </p>
 <h1 align="center"> DoNotAgree </h1> <br>
 <p align="center">
