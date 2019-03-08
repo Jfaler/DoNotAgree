@@ -49,7 +49,7 @@ A brower add-on that empowers users to disagree with terms & conditions.
 ## TODO
 
 1. Add logo
-2. Add websites
+2. Add more websites to do not agree list.
 
 ## Authors
 
