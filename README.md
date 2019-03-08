@@ -31,11 +31,9 @@
 A brower add-on that empowers users to disagree with terms & conditions.
 
 ## Scenarios
-* Store checkbox value, date & time, and terms.
-* Live testing
-  - Prove the new system is stable and find bugs that only occur in the real world
-* Regression testing
-* Performance comparison
+
+* Fight lawsuits that enforce arbitration.
+* Store checkbox value, date & time, and terms as evidence.
 
 ## Version
 `
